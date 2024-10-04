@@ -1,0 +1,7 @@
+
+
+/// Check what's need to be update
+winget upgrade
+
+/// For update
+winget update --all
